@@ -1,9 +1,9 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "Fuzed",
     "palette": "yellow",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "title": "Fuzed",
+        "tagline": "Playing with life since 2002",
         "logo_img": "images/logo.png",
         "bg_img": "images/header-bg.jpg",
         "has_nav": true,
@@ -13,8 +13,8 @@
         "content": "&copy; All rights reserved.",
         "links": [
             {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
+                "text": "TheAbbie",
+                "url": "https://theabbie.github.io",
                 "new_window": true
             }
         ]
